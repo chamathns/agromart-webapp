@@ -15,6 +15,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+import config from "../../config.json";
 
 interface Config {
     baseUrl: string;
@@ -33,12 +34,12 @@ declare global {
 }  
 
 const authConfig = {
-    baseUrl: window.config.baseUrl,
-    clientID: window.config.clientID,
-    signInRedirectURL: window.config.signInRedirectURL,
-    signOutRedirectURL: window.config.signOutRedirectURL,
-    myAccountAppURL: window.config.myAccountAppURL,
-    resourceServerURL: window.config.resourceServerURL,
+    baseUrl: config.baseUrl,
+    clientID: config.clientID,
+    signInRedirectURL: config.signInRedirectURL,
+    signOutRedirectURL: config.signOutRedirectURL,
+    myAccountAppURL: config.myAccountAppURL,
+    resourceServerURL: config.resourceServerURL,
     scope: ["openid", "profile", "email"],
   };
 
