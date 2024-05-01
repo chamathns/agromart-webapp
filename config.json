@@ -1,8 +1,8 @@
 {
     "baseUrl": "https://api.asgardeo.io/t/agromart",
     "clientID": "jyzdDGKjHhk0camTNqo1GO7osWUa",
-    "signInRedirectURL": "http://localhost:5173",
-    "signOutRedirectURL": "http://localhost:5173",
+    "signInRedirectURL": "https://oidcdebugger.com/debug",
+    "signOutRedirectURL": "https://agromart.choreoapps.dev/",
     "myAccountAppURL": "",
     "resourceServerURL": "http://localhost:9090",
     "scope": ["openid", "email", "profile"]
