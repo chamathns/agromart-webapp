@@ -1,6 +1,6 @@
 {
-    "baseUrl": "https://dev.api.asgardeo.io/t/agromart",
-    "clientID": "g2gGfFcUm3kI8DQcKusclf0yhQka",
+    "baseUrl": "https://api.asgardeo.io/t/agromart",
+    "clientID": "jyzdDGKjHhk0camTNqo1GO7osWUa",
     "signInRedirectURL": "http://localhost:5173",
     "signOutRedirectURL": "http://localhost:5173",
     "myAccountAppURL": "",
