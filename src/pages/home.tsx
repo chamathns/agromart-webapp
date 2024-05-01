@@ -19,7 +19,7 @@
 import { BasicUserInfo, Hooks, useAuthContext } from "@asgardeo/auth-react";
 import { Grid } from '@mui/material';
 import React, { FunctionComponent, ReactElement, useCallback, useEffect, useState } from "react";
-import LOGO_IMAGE from "../images/agromart-logo-final.png";
+import LOGO_IMAGE from "../images/agromart-logo.png";
 import LOGO_THUMBNAIL_IMAGE from "../images/thumbnail.png";
 import HOME_PAGE_IMAGE from "../images/background-final.png";
 import COVER_IMAGE from "../images/nav-image.png";
@@ -201,7 +201,7 @@ export const HomePage: FunctionComponent = (): ReactElement => {
                 
                     <div className="signInDiv">
                         <img
-                            style={{ width: "20vw" }}
+                            style={{ width: "30vw" }}
                             src={LOGO_IMAGE}
                             alt="pet-care-logo"
                         />
