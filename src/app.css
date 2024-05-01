@@ -480,7 +480,7 @@ code {
     font-size: 1rem;
     font-weight: 400;
     padding: 14px 24px;
-    background-color: #87c53e;
+    background-color: #d4a373;
     color: #ffffff;
     border-color: #e2e2e2;
     border-width: 0;
@@ -528,7 +528,7 @@ code {
     font-size: 1rem;
     font-weight: 400;
     padding: 14px 24px;
-    background-color: #3ab0ce;
+    background-color: #ccd5ae;
     color: #ffffff;
     width: 200px;
 }
@@ -694,7 +694,7 @@ code {
 
 .signInDiv {
     padding: 5rem 2rem;
-    background-color: #dfffed;
+    background-color: #faedcd;
     /* width: 25vw; */
     /* padding: 10rem 2rem; */
     display: flex;
@@ -707,7 +707,7 @@ code {
 
 .signInDiv2 {
     padding: 2rem 2rem;
-    background-color: #dfffed;
+    background-color: #faedcd;
     /* width: 25vw; */
     /* padding: 10rem 2rem; */
     /* display: flex;
@@ -720,7 +720,7 @@ code {
 
 .signInDiv3 {
     padding: 5rem 2rem;
-    background-color: #dfffed;
+    background-color: #faedcd;
     /* width: 25vw; */
     /* padding: 10rem 2rem; */
     /* display: flex;
